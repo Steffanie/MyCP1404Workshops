@@ -6,7 +6,7 @@
 CP1404/CP5632 Workshop 04
 Basic functions
 demonstrating various parameters, returns and the use of a main function
-Steffanie Gozzano
+Steffanie Gozzano!
 """
 __author__ = 'Lindsay Ward'
 
